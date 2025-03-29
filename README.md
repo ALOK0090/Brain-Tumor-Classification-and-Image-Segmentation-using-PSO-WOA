@@ -14,5 +14,6 @@ Result Image
 ![image](assets/classification.png)
 ![image](assets/pso+woa.png)
 
-For more details, please refer to Report.pdf
+More Details Report.pdf
+
 
